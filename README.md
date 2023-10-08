@@ -1,8 +1,8 @@
 # How I Made My Website Load in 0.364 Seconds | Build and Deploy
+
 ![Platform](https://i.ibb.co/Cmc2FhW/Thumbnail-11.png)
 
-## https://jsmastery.pro/resources
-
+## https://tinotendanyashanu.pl
 
 # Technologies and Frameworks
 
@@ -19,6 +19,7 @@
 - **clsx**: A tiny utility for constructing `className` strings conditionally.
 - **tailwind-merge**: A utility for merging Tailwind CSS classes.
 - **query-string**: A library for parsing and stringifying URL query strings.
+
 # Installation
 
 Follow these steps to install and setup the project:
@@ -26,13 +27,13 @@ Follow these steps to install and setup the project:
 1. Clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/adrianhajdin/jsm_resources_next13.git
+git clone https://github.com/tinotendanyashanu/Resorces-website.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd jsm_resources_next13
+cd Resorces-website
 ```
 
 3. Install the required dependencies. The project requires Next.js, React, React DOM, Sanity, Styled Components, Tailwind CSS, TypeScript, and various other dependencies. You can install these using npm or yarn. Here is an example using npm:
@@ -42,6 +43,7 @@ npm install
 ```
 
 4. Run the repo
+
 ```bash
 npm run dev
 ```
